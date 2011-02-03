@@ -1,0 +1,36 @@
+Theme: basic data and views
+
+- rails new kickballapp; cd kickballapp
+- bundle
+
+- rails generate scaffold team name:string
+- Talk: db migrations, database.yml
+- rake db:migrate, show table
+
+(slides: migrations)
+
+- rails generate scaffold location name:string address:string
+- rails generate scaffold game starts_at:datetime ends_at:datetime location:belongs_to home_team:belongs_to away_team:belongs_to
+- rake db:migrate
+
+- rails server
+- show home page
+
+(slides: routing)
+
+- remove index.html
+- config/routes.rb: root -> games#index
+- create new game
+
+(slides: views)
+
+- show layout, yield to games#edit, renders form
+
+- Add collection select on location
+- Talk: Forms helpers work in builder mode or standalone
+- Make a link to new location
+- Talk: Route helpers ('rake routes')
+
+- Collection select, and link on teams
+- Try to save, fix _id bit
+- Try to save, fix association on teams

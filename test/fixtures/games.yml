@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  starts_at: 2011-02-02 18:52:24
+  ends_at: 2011-02-02 18:52:24
+  location: 
+  home_team: 
+  away_team: 
+
+two:
+  starts_at: 2011-02-02 18:52:24
+  ends_at: 2011-02-02 18:52:24
+  location: 
+  home_team: 
+  away_team: 
