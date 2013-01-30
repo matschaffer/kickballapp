@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Home team:</b>
+  <%= @game.home_team %>
+</p>
+
+<p>
+  <b>Away team:</b>
+  <%= @game.away_team %>
+</p>
+
+<p>
+  <b>Venue:</b>
+  <%= @game.venue %>
+</p>
+
+<p>
+  <b>Starts at:</b>
+  <%= @game.starts_at %>
+</p>
+
+
+<%= link_to 'Edit', edit_game_path(@game) %> |
+<%= link_to 'Back', games_path %>

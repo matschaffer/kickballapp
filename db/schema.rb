@@ -11,11 +11,42 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130116190348) do
+ActiveRecord::Schema.define(:version => 20130130191012) do
+
+  create_table "games", :force => true do |t|
+    t.integer  "home_team_id"
+    t.integer  "away_team_id"
+    t.integer  "venue_id"
+    t.datetime "starts_at"
+    t.datetime "created_at",   :null => false
+    t.datetime "updated_at",   :null => false
+  end
+
+  add_index "games", ["away_team_id"], :name => "index_games_on_away_team_id"
+  add_index "games", ["home_team_id"], :name => "index_games_on_home_team_id"
+  add_index "games", ["venue_id"], :name => "index_games_on_venue_id"
+
+  create_table "players", :force => true do |t|
+    t.string   "first_name"
+    t.string   "last_name"
+    t.integer  "number"
+    t.integer  "team_id"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
+
+  add_index "players", ["team_id"], :name => "index_players_on_team_id"
 
   create_table "teams", :force => true do |t|
     t.string   "name"
     t.string   "hometown"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
+
+  create_table "venues", :force => true do |t|
+    t.string   "name"
+    t.text     "address"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end

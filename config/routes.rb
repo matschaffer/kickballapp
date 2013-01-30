@@ -1,4 +1,13 @@
 Kickballapp::Application.routes.draw do
+  resources :games
+
+
+  resources :venues
+
+
+  resources :players
+
+
   resources :teams
 
 
