@@ -1,7 +1,11 @@
 require 'spec_helper'
 
 describe 'Adding a player' do
-  fixtures :teams
+  fixtures :teams, :users
+
+  before do
+    sign_in
+  end
 
   it 'requires a last name' do
     visit players_path

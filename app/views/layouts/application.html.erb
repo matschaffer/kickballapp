@@ -33,6 +33,11 @@
               <li><%= link_to "Players", players_path %></li>
               <li><%= link_to "Venues", venues_path %></li>
               <li><%= link_to "Games", games_path %></li>
+              <% if user_signed_in? %>
+                  <li><%= link_to 'Logout',
+                                  destroy_user_session_path,
+                                  method: :delete %></li>
+              <% end %>
             </ul>
           </div>
         </div>
@@ -40,6 +45,17 @@
     </div>
 
     <div class="container">
+
+      <% if alert %>
+          <div class="alert alert-error">
+            <%= alert %>
+          </div>
+      <% end %>
+      <% if notice %>
+          <div class="alert alert-success">
+            <%= notice %>
+          </div>
+      <% end %>
 
       <%= yield %>
 
