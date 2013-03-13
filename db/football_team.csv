@@ -1,0 +1,838 @@
+﻿Name,Current head coach,Current Roster - Number,Current Roster - Player
+Arizona Cardinals,Bruce Arians,3,Jay Feely
+,,4,Kevin Kolb
+,,9,Dave Zastudil
+,,11,Larry Fitzgerald
+,,12,Andre Roberts
+,,14,Ryan Lindley
+Atlanta Falcons,Mike Smith,2,Matt Ryan
+,,3,Matt Bryant
+,,4,Dominique Davis
+,,5,Matt Bosher
+,,11,Julio Jones
+,,12,Luke McCown
+Baltimore Ravens,John Harbaugh,2,Tyrod Taylor
+,,4,Sam Koch
+,,5,Joe Flacco
+,,9,Justin Tucker
+,,11,Tommy Streeter
+,,12,Jacoby Jones
+Buffalo Bills,Doug Marrone,4,Tyler Thigpen
+,,6,Shawn Powell
+,,7,Tarvaris Jackson
+,,9,Rian Lindell
+,,11,T. J. Graham
+,,13,Steve Johnson
+Cleveland Browns,Rob Chudzinski,2,Reggie Hodges
+,,3,Brandon Weeden
+,,4,Phil Dawson
+,,10,Jordan Norwood
+,,11,Mohamed Massaquoi
+,,12,Colt McCoy
+Carolina Panthers,Ron Rivera,1,Cam Newton
+,,3,Derek Anderson
+,,6,Justin Medlock
+,,7,Jimmy Clausen
+,,8,Brad Nortman
+,,11,Brandon LaFell
+Chicago Bears,Marc Trestman,2,Jason Campbell
+,,6,Jay Cutler
+,,8,Adam Podlesh
+,,9,Robbie Gould
+,,14,Eric Weems
+,,15,Brandon Marshall
+Cincinnati Bengals,Marvin Lewis,2,Mike Nugent
+,,7,Bruce Gradkowski
+,,10,Kevin Huber
+,,12,Mohamed Sanu
+,,14,Andy Dalton
+,,16,Andrew Hawkins
+Dallas Cowboys,Jason Garrett,2,Brian Moorman
+,,5,Dan Bailey
+,,6,Chris Jones
+,,9,Tony Romo
+,,11,Cole Beasley
+,,17,Dwayne Harris
+Denver Broncos,John Fox,84,Jacob Tamme
+,,81,Joel Dreessen
+,,52,Wesley Woodyard
+,,17,Andre Caldwell
+,,22,Tracy Porter
+,,65,Manuel Ramírez
+Detroit Lions,Jim Schwartz,4,Jason Hanson
+,,5,Nick Harris
+,,9,Matthew Stafford
+,,10,Kassim Osgood
+,,11,Stefan Logan
+,,13,Nate Burleson
+Green Bay Packers,Mike McCarthy,2,Mason Crosby
+,,6,Graham Harrell
+,,8,Tim Masthay
+,,10,Jeremy Ross
+,,11,Jarrett Boykin
+,,12,Aaron Rodgers
+Houston Texans,Gary Kubiak,4,Randy Bullock
+,,5,Donnie Jones
+,,8,Matt Schaub
+,,11,DeVier Posey
+,,13,T. J. Yates
+,,17,Shayne Graham
+Indianapolis Colts,Chuck Pagano,1,Pat McAfee
+,,4,Adam Vinatieri
+,,5,Drew Stanton
+,,10,Nathan Palmer
+,,11,Donnie Avery
+,,12,Andrew Luck
+Jacksonville Jaguars,Gus Bradley,7,Chad Henne
+,,10,Josh Scobee
+,,11,Blaine Gabbert
+,,14,Justin Blackmon
+,,15,Taylor Price
+,,19,Bryan Anger
+Kansas City Chiefs,Andy Reid,2,Dustin Colquitt
+,,4,Alex Tanney
+,,6,Ryan Succop
+,,7,Matt Cassel
+,,9,Brady Quinn
+,,10,Terrance Copper
+Miami Dolphins,Joe Philbin,2,Brandon Fields
+,,5,Dan Carpenter
+,,7,Pat Devlin
+,,8,Matt Moore
+,,14,Marlon Moore
+,,15,Davone Bess
+Minnesota Vikings,Leslie Frazier,3,Blair Walsh
+,,4,McLeod Bethel-Thompson
+,,5,Chris Kluwe
+,,7,Christian Ponder
+,,11,Stephen Burton
+,,12,Percy Harvin
+New England Patriots,Bill Belichick,3,Stephen Gostkowski
+,,11,Julian Edelman
+,,12,Tom Brady
+,,14,Zoltan Mesko
+,,15,Ryan Mallett
+,,15,Shun White
+New Orleans Saints,Sean Payton,5,Garrett Hartley
+,,6,Thomas Morstead
+,,9,Drew Brees
+,,10,Chase Daniel
+,,12,Marques Colston
+,,13,Joe Morgan
+New York Jets,Rex Ryan,2,Nick Folk
+,,3,Robert Malone
+,,6,Mark Sanchez
+,,10,Santonio Holmes
+,,11,Jeremy Kerley
+,,14,Greg McElroy
+New York Giants,Tom Coughlin,5,Steve Weatherford
+,,8,David Carr
+,,9,Lawrence Tynes
+,,10,Eli Manning
+,,12,Jerrel Jernigan
+,,13,Ramses Barden
+Oakland Raiders,Dennis Allen,58,Dave Tollefson
+,,86,David Ausberry
+,,69,Khalif Barnes
+,,33,Tyvon Branch
+,,90,Desmond Bryant
+,,66,Cooper Carlisle
+Pittsburgh Steelers,Mike Tomlin,76,Mike Adams
+,,57,Adrian Robinson
+,,65,Al Woods
+,,84,Antonio Brown
+,,7,Ben Roethlisberger
+,,91,Brandon Johnson
+Philadelphia Eagles,Chip Kelly,1,Mat McBriar
+,,6,Alex Henery
+,,7,Michael Vick
+,,9,Nick Foles
+,,10,DeSean Jackson
+,,11,Trent Edwards
+San Francisco 49ers,Jim Harbaugh,2,David Akers
+,,3,Scott Tolzien
+,,4,Andy Lee
+,,7,Colin Kaepernick
+,,10,Kyle Williams
+,,11,Alex Smith
+San Diego Chargers,Mike McCoy,5,Mike Scifres
+,,6,Charlie Whitehurst
+,,9,Nick Novak
+,,11,Eddie Royal
+,,12,Robert Meachem
+,,15,Richard Goodman
+St. Louis Rams,Jeff Fisher,4,Greg Zuerlein
+,,6,Johnny Hekker
+,,8,Sam Bradford
+,,9,Austin Davis
+,,10,Kellen Clemens
+,,11,Brandon Gibson
+Seattle Seahawks,Pete Carroll,3,Russell Wilson
+,,4,Steven Hauschka
+,,5,DeShawn Shead
+,,11,Jermaine Kearse
+,,9,Jon Ryan
+,,14,Charly Martin
+Tampa Bay Buccaneers,Greg Schiano,5,Josh Freeman
+,,6,Dan Orlovsky
+,,9,Michael Koenen
+,,10,Connor Barth
+,,11,Tiquan Underwood
+,,12,Roscoe Parrish
+Tennessee Titans,Mike Munchak,2,Rob Bironas
+,,6,Brett Kern
+,,8,Matt Hasselbeck
+,,10,Jake Locker
+,,11,Rusty Smith
+,,13,Kendall Wright
+Washington Redskins,Mike Shanahan,6,Sav Rocca
+,,8,Rex Grossman
+,,10,Robert Griffin III
+,,11,Aldrick Robinson
+,,12,Kirk Cousins
+,,15,Josh Morgan
+Washington State Cougars football,Mike Leach,68,Brent Anderson
+,,19,Gordy Anderson
+,,81,Isiah Barton
+,,46,Louis Bland
+,,71,Matthew Bock
+,,89,Blair Bomber
+Edmonton Eskimos,Kavis Reed,5,Kerry Joseph
+Michigan Wolverines football,Brady Hoke,8,J. T. Floyd
+,,23,Floyd Simmons
+,,25,Kenny Demens
+,,39,Will Heininger
+,,42,J.B. Fitzgerald
+,,49,John McColgan
+Florida Gators football,Will Muschamp,19,Caleb Sturgis
+,,8,Jeremy Brown
+,,53,Scott Peek
+,,34,Lerentee McCray
+,,36,Moses Jenkins
+,,40,David Lerner
+Notre Dame Fighting Irish football,Brian Kelly,1,Deion Walker
+,,99,Brandon Newman
+,,4,Gary Gray
+,,15,Dan McCarthy
+,,42,Nick Lezynski
+,,26,Jamoris Slaughter
+Georgia Bulldogs football,Mark Richt,24,Jamel Allen
+,,61,David Andrews
+,,58,Sterling Bailey
+,,82,Michael Bennett
+,,10,Greg Bingham
+,,65,John Bodin
+Houston Oilers,,,
+Temple Owls football,Steve Addazio,,
+Army Black Knights football,Rich Ellerson,1,Raymond Maples
+,,1,Issac Winters
+,,2,Anthony Stephens
+,,3,Marcus Jackson
+,,4,Ty Shrader
+,,5,Justin Trimble
+Mississippi Valley State Delta Devils football,,,
+Kansas Jayhawks football,Charlie Weis,66,"Admire, Dylan"
+,,96,"Agostinho, Keba"
+,,62,"Avery, Dylan"
+,,17,"Bakare, Tunde"
+,,86,"Barlow, Neal"
+,,44,"Baron, Scott"
+UCLA Bruins football,Jim L. Mora,26,Andrew Abbott
+,,17,David Allen
+,,31,Kola Awe
+,,60,Jeff Baca
+,,68,Jay Barlow
+,,31,Librado Barocio
+Oklahoma Sooners football,Bob Stoops,1,Tony Jefferson
+,,2,Julian Wilson
+,,2,Trey Franks
+,,3,Brennan Clay
+,,3,Joe Powell
+,,4,Kenny Stills
+Florida State Seminoles football,Jimbo Fisher,1,Kelvin Benjamin
+,,62,Austin Barron
+,,38,Jonathan Akanbi
+,,29,Eric Beverly
+,,41,Chad Abram
+,,37,Nathan Brazeau
+Southern Methodist University Mustang football,,,
+Southern Methodist University Mustangs football,,,
+Alabama Crimson Tide Football,Nick Saban,69,David Blalock
+,,31,John Baites
+,,19,Jonathan Atchison
+,,86,Undra Billingsley
+,,31,Jerrod Bierbower
+,,67,John Michael Boswell
+Nebraska Cornhuskers football,Bo Pelini,80,Kenny Bell
+,,79,Brandon Thompson
+,,24,Murat Kuzu
+,,6,Tim Marlowe
+,,3,Taylor Martinez
+,,13,P.J. Smith
+Michigan State Spartans football,Mark Dantonio,12,Peter Badovinac
+,,70,Skyler Burkland
+,,66,Jack Allen
+,,40,Max Bullough
+,,45,Jeff Bobek
+,,5,Johnny Adams
+Pittsburgh Panthers football,Paul Chryst,10,Trey Anderson
+,,35,E.J. Banks
+,,58,Kevin Barthelemy
+,,34,Isaac Bennett
+,,19,Joshua Brinson
+,,24,Desmond Brown
+Carlisle football,,,
+Carlisle football,,,
+North Carolina Tar Heels football,Larry Fedora,3,Joshua Adams
+,,76,Travis Bond
+,,20,Brandon Ellerbe
+,,10,Tre Boston
+,,49,Fabby Desir
+,,43,Curtis Campbell
+Texas Longhorns football,Major Applewhite,,
+,Mack Brown,,
+Penn State Nittany Lions football,,,
+Minnesota Golden Gophers football,Jerry Kill,,Philip Nelson
+Yale Bulldogs football,,,
+USC Trojans football,Lane Kiffin,30,Brian Baucham
+,,7,T. J. McDonald
+,,49,Robbie Boyer
+,,67,Tyler Grady
+,,16,Anthony Brown
+,,78,Khaled Holmes
+Syracuse University football,,,
+Syracuse University football,,,
+University of Pennsylvania football,,,
+TCU Horned Frogs football,Gary Patterson,1,Tekerrein Cuba
+,,2,Jason Verrett
+,,2,Trevone Boykin
+,,2,Hans Ingold
+,,3,Chris Hackett
+,,3,Brandon Carter
+Ohio State Buckeyes football,Urban Meyer,90,Darryl Baldwin
+,,63,Michael Bennett
+,,44,Zach Boren
+,,4,C.J. Barnett
+,,56,Dalton Britt
+,,10,Corey Brown
+Amsterdam Admirals,,,
+Washington Huskies football,Steve Sarkisian,48,Jonathan Amosa
+,,70,James Atoe
+,,36,Zach Beebe
+,,82,James Boker
+,,42,Travon Brooks
+,,6,Derrick Brown
+The Hawaiians,,,
+Tennessee Volunteers football,Butch Jones,1,Michael Palardy
+,,2,Naz Oliver
+,,3,Byron Moore
+,,3,Tyler Drummer
+,,4,Marlin Lane Jr.
+,,5,Matt Darr
+Hamilton Flying Wildcats,,,
+Toronto Argonauts,Scott Milanovich,3,Cory Boyd
+,,2,Chad Owens
+Iowa Barnstormers,,,
+New York Dragons,,,
+Iowa Barnstormers,,,
+Dublin Dragons,,,
+Ottawa Canadian Football League team,,,
+Dublin Rebels,,,
+Trinity Thunderbolts,,,
+Ottawa Sooners,,,
+Cleveland Bulldogs,,,
+Akron Pros,,,
+Syracuse Pros,,,
+Montreal Alouettes,,,Ike Charlton
+,,,Brandon London
+,,13,Anthony Calvillo
+,,,Copeland Bryan
+Providence Steam Roller,,,
+Canton Bulldogs,,,
+Frankford Yellow Jackets,,,
+Dallas Texans,,,
+Boston Yanks,,,
+Buffalo All-Stars,,,
+Minneapolis Marines,,,
+Detroit Heralds,,,
+Washington Senators,,,
+Pottsville Maroons,,,
+Orange Tornadoes,,,
+Duluth Kelleys,,,
+Chicago Tigers,,,
+Cincinnati Celts,,,
+Cincinnati Reds,,,
+St. Louis Gunners,,,
+Cleveland Tigers,,,
+Cleveland Indians,,,
+Columbus Panhandles,,,
+Dayton Triangles,,,
+Los Angeles Buccaneers,,,
+Muncie Flyers,,,
+Evansville Crimson Giants,,,
+Louisville Brecks,,,
+New York Yankees,,,
+Hartford Blues,,,
+Hammond Pros,,,
+Oorang Indians,,,
+Kenosha Maroons,,,
+Milwaukee Badgers,,,
+Racine Legion,,,
+Rochester Jeffersons,,,
+Tonawanda Kardex,,,
+Rock Island Independents,,,
+Staten Island Stapletons,,,
+St. Louis All Stars,,,
+Toledo Maroons,,,
+Ottawa Renegades,,,
+BC Lions,Mike Benevides,17,Jock Sanders
+,,14,Travis Lulay
+Calgary Stampeders,John Hufnagel,4,Drew Tate
+Winnipeg Blue Bombers,Tim Burke,,Chad Nkang
+,,,Rian Wallace
+,,,Buck Pierce
+Brooklyn Dodgers,,,
+New York Giants,,,
+New York Yanks,,,
+Hamilton Tiger-Cats,George Cortez,92,Rob Rose
+,,,Avon Cobourne
+,,1,Kevin Robinson
+,,87,Courtney Smith
+Brooklyn Horsemen,,,
+Baltimore Colts,,,
+Kansas City Blues,,,
+Philadelphia-Pittsburgh Steagles,,,
+Belfast Bulls,,,
+Card-Pitt,,,
+Belfast Trojans,,,
+Tallaght Outlaws,,,
+Dublin City University Saints,,,
+University of Limerick Vikings,,,
+St. Louis Stallions,,,
+Youngstown Patricians,,,
+Virginia Military Institute Keydets  Football,,,
+Arkansas State Red Wolves football,,,
+Memphis Tigers football,,,
+Cincinnati Bearcats football,,19,Ralph David Abernathy IV
+,,4,Maalik Bomar
+,,24,John Lloyd
+,,79,Andre Cureton
+,,93,Brad Harrah
+,,41,Kevin Hyland
+William and Mary Tribe football,,,
+Duke Blue Devils football,David Cutcliffe,,
+Butler Bulldogs men's football,,,
+Syracuse Orange football,,4,Brandon Reddish
+,,3,Durell Eskridge
+,,5,Marcus Sales
+,,2,Olando Fisher
+,,7,Jonny Miller
+,,6,Terrel Hunt
+North Texas Mean Green football,Dan McCarney,97,Richard Abbe
+,,79,Ayodele Adedipe
+,,47,Brandon Akpunku
+,,52,Derek Akunne
+,,64,LaChris Anyiam
+,,41,Will Atterberry
+Auburn Tigers football,Gus Malzahn,30,Steven Clark
+,,10,Kiehl Frazier
+,,23,Onterio McCalebb
+,,19,Ryan White
+,,5,Jake Holland
+,,22,Mike Blakely
+LSU Tigers football,Les Miles,1,Eric Reid
+,,4,Alfred Blue
+,,3,Jakhari Gore
+,,6,Craig Loston
+,,5,Jarrett Fobbs
+,,8,Zach Mettenberger
+University of West Georgia football,,,
+Eastern Kentucky Colonels football,,,
+Valdosta State Blazers football,,,
+Oklahoma State Cowboys football,Mike Gundy,82,Isaiah Anderson
+,,77,Gerron Anthony
+,,22,"Joe Aska, Jr."
+,,80,Cooper Bassett
+,,25,Yves Batoba
+,,92,Jimmy Bean
+TSU Tigers football,,,Bobby Reid
+Xavier Musketeers football,,,
+Boise State Broncos football,Chris Petersen,,
+Cornell Big Red,,,
+Akron Zips football,Terry Bowden,,
+Arizona State Sun Devils football,Todd Graham,58,Sil Ajawara
+,,91,Cutter Baldock
+,,19,Kevin Ayers
+,,19,Kevin Anderson
+,,37,Dante Alexander
+,,52,Carl Bradford
+Bossier-Shreveport Battle Wings,,,
+Kansas City Brigade,,,
+Abilene Ruff Riders,,,Johnny Dingle
+Rice Owls football,,2,Sam McGuffie
+Utah State Aggies football,,,
+California Golden Bears football,Sonny Dykes,,
+Oregon Ducks football,,,
+Owners of svkmd domain,,55,spelers
+Colorado Buffaloes football,Jon Embree,,
+Barcelona Dragons,,,
+Florida Bobcats,,,
+London Monarchs,,,
+Boston College Eagles football,Frank Spaziani,1,"Colin Larmond, Jr."
+,,2,Montel Harris
+,,3,Ifeanyi Momah
+,,5,"Al Louis-Jean, Jr."
+,,6,C.J. Jones
+,,7,Spiffy Evans
+Ole Miss Rebels football,Hugh Freeze,83,Ferbia Allen
+,,86,Tyler Baker
+,,29,Abdul Bangura
+,,68,Justin Bell
+,,95,Bryon Bennett
+,,48,Justin Bigham
+New York Titans,,,
+Dayton Flyers football team,,,
+University of Pacific football,,,
+Southeast Missouri State Redhawks football,,,
+New York Yankees,,,
+Akron Indians,,,
+Boston Bulldogs,,,
+Boston Redskins,,,
+Brooklyn Tigers,,,
+Brooklyn Lions,,,
+Cleveland Rams,,,
+Columbus Tigers,,,
+Chicago Rockets,,,
+Chicago Hornets,,,
+Buffalo Bills,,,
+Buffalo Bisons,,,
+Los Angeles Dons,,,
+Miami Seahawks,,,
+Newark Bears,,,
+Brooklyn Dodgers,,,
+Cleveland Panthers,,,
+Dallas Texans,,,
+Los Angeles Wildcats,,,
+New York Titans,,,
+Philadelphia Quakers,,,
+New York Bulldogs,,,
+St. Louis Cardinals,,,
+Chicago Cardinals,,,
+Racine Cardinals,,,
+Racine Normals,,,
+Morgan Athletic Club,,,
+Chicago Staleys,,,
+Buffalo Niagaras,,,
+Buffalo Prospects,,,
+Buffalo Bisons,,,
+Decatur Staleys,,,
+Detroit Tigers,,,
+Louisville Colonels,,,
+Buffalo Rangers,,,
+Los Angeles Rams,,,
+Detroit Panthers,,,
+Detroit Wolverines,,,
+Duluth Eskimos,,,
+Newark Tornadoes,,,
+Pittsburgh Pirates,,,
+Racine Tornadoes,,,
+Chicago Bulls,,,
+Baltimore Colts,,,
+Buffalo Bisons,,,
+Buffalo All-Americans,,,
+Chicago Cardinals,,,
+Rhein Fire,,,
+Boston Bulldogs,,,
+Tennessee Oilers,,,
+Phoenix Cardinals,,,
+Portsmouth Spartans,,,
+Boston Patriots,,,
+Los Angeles Raiders,,,
+Los Angeles Chargers,,,
+Boston Braves,,,
+Minneapolis Red Jackets,,,
+Kansas City Cowboys,,,
+Stanford Cardinal football,David Shaw,,
+West Edmonton Raiders,,,
+Omaha Nighthawks,,8,Jeremiah Masoli
+,,3,D. J. Shockley
+,,7,Noel Devine
+,,9,Eric Crouch
+,,5,Chris Davis
+,,13,Maurice Clarett
+Frankfurt Galaxy,,,
+Virginia Tech Hokies football,Frank Beamer,,
+USC Trojans football,,,
+Harvard Crimson football,,,
+Tulsa Golden Hurricane football,,,
+College of Wooster Football Team,,,
+Assumption College Football Team,,,
+Grand Valley State Lakers football,,,
+Doane College Tigers Football,,,
+Heidelberg University Football,,,
+Miami Hurricanes football,Al Golden,77,Seantrel Henderson
+Penn State Nittany Lions football,Bill O'Brien,,
+Baylor Bears football,Art Briles,,
+UMES Hawks,,,
+San Antonio Gunslingers,,,
+Colorado State Rams football,,,
+BYU Cougars football,Bronco Mendenhall,,
+Baldwin–Wallace Yellow Jackets,,,
+Arizona Rattlers,,19,Marquis Floyd
+2010 Florida Tuskers season,,29,Keith Davis
+Hartford Colonials,Jerry Glanville,,
+WKU Hilltoppers football,,,
+Georgia Tech Yellow Jackets football,Paul Johnson,,
+Chicago Maroons football,,,
+Winnipeg Rifles,,,
+Victoria Rebels,,,
+Regina Thunder,,,
+Berlin Thunder,,,
+Ottawa Rough Riders,,,
+Northwestern State Demons,,,
+Stockholm Mean Machines,,,
+Louisiana Tech Bulldogs football,,,
+Chicago Rush,,9,Chris Gould
+San Antonio Talons,,,Aaron Garcia
+Huntington Hammer,,,
+San Jose SaberCats,,,
+Georgia Force,,,Mitch Mustain
+Wilkes-Barre/Scranton Pioneers,,,
+Utah Blaze,,,
+Saskatchewan Roughriders,Corey Chamblin,,
+South Carolina Gamecocks football,Steve Spurrier,,
+Arizona Outlaws,,,
+Southern Connecticut State University,,,
+Colgate Raiders football,,,
+New Jersey Generals,,,
+Connecticut Huskies football,Paul Pasqualoni,,
+Lehigh Mountain Hawks football,,,
+Alabama A&M Bulldogs football,,,
+Arkansas Razorbacks football,John L. Smith,,
+,Bret Bielema,,
+Angelo State Rams football,,,
+Sacramento Mountain Lions,Dennis Green,32,Marcus McCauley
+University of Georgia,,,
+Grambling State Tigers,,,
+Las Vegas Outlaws,,,
+Team Tennessee,,,
+Los Angeles Bulldogs,,,
+Alcorn State Braves football,,,
+West Virginia Mountaineers football,,12,Geno Smith
+Iowa Hawkeyes football,Kirk Ferentz,,
+Oregon State Beavers,,,
+Oregon State Beavers football,Mike Riley,,
+Maryland Terrapins football,Randy Edsall,,
+Wisconsin Badgers football,,,
+Grambling State Tigers football,,,
+San Jose State Spartans football,,,
+Tennessee State Tigers football,,,
+Marshall Thundering Herd football,,,
+CCSF Rams,,,
+Louisville Cardinals football,,,
+Kansas State Wildcats football,,,
+Wake Forest Demon Deacons football,,,
+William & Mary Tribe football,,,
+Texas A&M Aggies football,,,
+San Antonio Riders,,,
+Abilene Christian Wildcats,,,
+SMU Mustangs football,June Jones,,
+Bowling Green Falcons football,,,
+Memphis Showboats,,,
+Wofford Terriers,,,
+Texas Southern Tigers football,,,
+Northern Illinois Huskies football,,,
+Brown Bears,,,
+Montana Grizzlies football,,18,Nate Montana
+UAB Blazers football,Garrick McGee,,
+Kentucky Wildcats football,,,
+Houston Gamblers,,,
+Navy Midshipmen football,,,
+Trenton Steel,,,
+Arizona Wildcats football,Rich Rodriguez,,
+Idaho Vandals,,,
+Idaho Vandals football,,,
+Northwestern Wildcats football,Pat Fitzgerald,,
+Spokane Shock,,,
+Las Vegas Locomotives,,90,Edgerton Hartwell
+,,12,Brian Brohm
+,,1,DeDe Dorsey
+New Orleans VooDoo,,,
+Dallas Desperados,,,
+UCF Knights football,George O'Leary,,
+Troy Trojans football,,,
+Pacific Tigers football,,,
+Memphis Maniax,,,
+Yale Bulldogs football,,,
+Chicago Slaughter,,34,Jarrett Payton
+,,4,Isiah Williams
+Sacramento Surge,,,
+Fresno State Bulldogs football,,,
+McNeese State Cowboys,,,
+Utah Utes football,Kyle Whittingham,,
+Arizona State Sun Devils,,,
+Cal State Fullerton Titans football,,,
+Kent State Golden Flashes football,,,
+Los Angeles Express,,,
+Missouri Tigers football,Gary Pinkel,,
+San Diego State Aztecs football,,,
+Memphis Mad Dogs,,,
+Tampa Bay Bandits,,,
+Birmingham Barracudas,,,
+Birmingham Thunderbolts,,,
+Shreveport Pirates,,,
+Orlando Thunder,,,
+Nevada Wolf Pack football,,,
+Las Vegas Posse,,,
+Utah State Aggies football,,,
+Sioux City Bandits,,,
+Cornell Big Red football,,,
+Southern California Sun,,,
+Tulane Green Wave football,,,
+Houston Cougars football,,,
+Central Michigan Chippewas football,,,
+Clemson Tigers football,Dabo Swinney,,
+Baltimore Stars,,,
+Liberty Flames,Turner Gill,,
+Western Michigan Broncos,,,
+Indiana Hoosiers football,Kevin R. Wilson,,
+Tampa Bay Storm,,,
+Wyoming Cowboys football,,,
+Delaware Fightin' Blue Hens football,,,
+NC State Wolfpack football,,,
+Virginia Cavaliers football,,,
+Chicago Blitz,,,
+Arizona Wranglers,,,
+Orlando Renegades,,,
+Louisiana–Lafayette Ragin' Cajuns football,,,
+Cleveland Thunderbolts,,,
+Washington Marauders,,,
+Charleston Swamp Foxes,,,
+Purdue Boilermakers football,Darrell Hazell,9,Robert Marve
+Hawaii Warriors football,Norm Chow,,
+Miami RedHawks football,,,
+Richmond Spiders football,,,
+Hampton Pirates football,,,
+Eastern Michigan Eagles football,,,
+Cal Poly Mustangs football,,,
+Princeton Tigers football,,,
+Colorado Crush,,,
+Jacksonville State Gamecocks,,,
+Ottawa Braves,,,
+Iowa State Cyclones football,,,
+Orlando Predators,,3,Bobby Sippio
+Cologne Centurions,,,
+Tampa Cardinals,,,
+Lafayette Leopards football,,,
+East Carolina Pirates football,,,
+Montana State Bobcats football,,,
+Southern Illinois Salukis football,,,
+Eastern Washington Eagles football,,,
+Texas Tech Red Raiders football,Kliff Kingsbury,,
+Northern Iowa Panthers football,,,
+Wisconsin–Whitewater Warhawks,,,
+Mississippi State Bulldogs football,,,
+Southern Utah Thunderbirds football,,,
+UMass Minutemen football,,,
+Indiana Firebirds,,,
+Milwaukee Mustangs,,,
+Orlando Rage,,,
+UNLV Rebels football,,,
+Rutgers Scarlet Knights football,,,
+Hamburg Sea Devils,,,
+Western Michigan Broncos football,,,
+Sam Houston State Bearkats,,,
+Memphis Tigers football,,,
+Coastal Carolina Chanticleers football,,,
+Oakland Invaders,,,
+Michigan Panthers,,,
+Toledo Rockets football,,,
+Kentucky Horsemen,,,
+Muncie River Monsters,,,
+Virginia Destroyers,Marty Schottenheimer,,Eric Moore
+,,94,Greg White
+,,39,Willie Parker
+Long Beach State 49ers football,,,
+Samford Bulldogs,,,
+Memphis Southmen,,,
+Jacksonville Sharks,,12,Chris Leak
+Chicago Bruisers,,,
+Oklahoma Wranglers,,,
+Dallas Texans,,,
+Jacksonville Bulls,,,
+James Madison Dukes football,Mickey Matthews,19,Mack Spees
+,,23,Kerby Long
+,,22,Marquis Woodyard
+,,30,Ron Gordon Jr.
+,,14,Taveion Cuffee
+,,3,Sage Harold
+Ball State Cardinals football,,,
+Connecticut Coyotes,,,
+Los Angeles Avengers,,,
+Grand Rapids Rampage,,,
+Austin Wranglers,,,
+Cleveland Gladiators,,,
+Los Angeles Xtreme,,,
+Florida A&M Rattlers football,,,
+Southern Miss Golden Eagles football,,,
+Middle Tennessee Blue Raiders football,,,
+Columbus Destroyers,,,
+Leicester Panthers,,,
+Shreveport Steamer,,,
+Georgia State Panthers football,Bill Curry,,
+Central Arkansas Bears,,,
+Idaho State Bengals football,,,
+UTEP Miners football,,,
+Blue Streaks Football,,,
+New Mexico Lobos Football,,,
+Towson Tigers football,,,
+Odessa Roughnecks,,,
+Savannah State Tigers football,,,
+South Carolina State Bulldogs football,,,
+Mississippi Valley State Delta Devils football,,,
+Corpus Christi Hammerheads,,,
+Texas Hurricanes,,,
+Villanova Wildcats football,,,
+Murray State Racers football,,,
+Emporia State Hornets football,,,
+Northern Colorado Bears football,,,
+Howard Bison football,,,
+Occidental Tigers Football,,,
+Valparaiso Crusaders Football,,,
+Vanderbilt Commodores football,James Franklin,87,Jordan Matthews
+Youngstown State Penguins football,,,
+UC Davis Aggies football,Ron Gould,,
+Eastern Illinois Panthers football,,,
+Sonoma State Seawolves football,,,
+Boston University Terriers Football,,,
+Ohio Bobcats football,,,
+Cincinnati Rockers,,,
+Massachusetts Marauders,,,
+Southern Jaguars football,,,
+Southwestern College Moundbuilders Football,,,
+Birmingham Stallions,,,
+Illinois State Redbirds football,,,
+Stephen F. Austin Lumberjacks football,,,
+Western Illinois Leathernecks football,,,
+South Florida Bulls football,Skip Holtz,,
+Georgetown Hoyas football,,,
+Illinois Fighting Illini football,Tim Beckman,,
+Columbia Lions,,,
+Cal Poly Pomona Broncos,,,
+South Dakota State Jackrabbits football,,,
+Columbia Lions Football,,,
+Birmingham Fire,,,
+Pasadena City College football team,,,
+Hastings College American Football Team,,,
+Arkansas Twisters,,,
+Bucknell University,,,
+Santa Clara Broncos football,,,
+Eastern Illinois Panthers Football Team,,,
+Arkansas Razorbacks,,8,Tyler Wilson
+Brownwood Lions ,,,
+Tri-Cities Fever,,,DeVon Walker
+Ohio Wesleyan football,,,
+Baltimore Stallions,,,
+Dartmouth Big Green football,,,
+Amherst Lord Jeffs,,,
+St. Louis Stampede,,,
