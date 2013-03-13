@@ -3,11 +3,6 @@ class PlayersController < ApplicationController
   # GET /players.json
   def index
     @players = Player.all
-
-    respond_to do |format|
-      format.html # index.html.erb
-      format.json { render json: @players }
-    end
   end
 
   # GET /players/1
@@ -42,14 +37,10 @@ class PlayersController < ApplicationController
   def create
     @player = Player.new(params[:player])
 
-    respond_to do |format|
       if @player.save
-        format.html { redirect_to @player, notice: 'Player was successfully created.' }
-        format.json { render json: @player, status: :created, location: @player }
+        redirect_to @player, notice: 'Player was successfully created.'
       else
-        format.html { render action: "new" }
-        format.json { render json: @player.errors, status: :unprocessable_entity }
-      end
+        render action: "new"
     end
   end
 
