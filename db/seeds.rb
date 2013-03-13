@@ -7,5 +7,10 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 
-Team.create(name: 'Eagles')
+team = Team.create(name: 'Ballshevicks')
+
+team.players.create first_name: "Mat", last_name: "Schaffer", number: 42
+team.players.create first_name: "Jearvon", last_name: "Dharrie", number: 49
+team.players.create first_name: "Justin", last_name: "Campbell", number: 10
+
 User.create(email: 'mat@schaffer.me', password: 'test1234', password_confirmation: 'test1234')
