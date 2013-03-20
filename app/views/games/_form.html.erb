@@ -13,15 +13,15 @@
 
   <div class="field">
     <%= f.label :home_team %><br />
-    <%= f.text_field :home_team %>
+    <%= f.collection_select :home_team_id, @teams, :id, :name %>
   </div>
   <div class="field">
     <%= f.label :away_team %><br />
-    <%= f.text_field :away_team %>
+    <%= f.collection_select :away_team_id, @teams, :id, :name %>
   </div>
   <div class="field">
     <%= f.label :venue %><br />
-    <%= f.text_field :venue %>
+    <%= f.collection_select :venue_id, @venues, :id, :name %>
   </div>
   <div class="field">
     <%= f.label :starts_at %><br />

@@ -1,4 +1,12 @@
 class GamesController < ApplicationController
+
+  before_filter :initialize_game_form_variables
+
+  def initialize_game_form_variables
+    @teams = Team.all
+    @venues = Venue.all
+  end
+
   # GET /games
   # GET /games.json
   def index
