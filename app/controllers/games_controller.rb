@@ -52,6 +52,9 @@ class GamesController < ApplicationController
 
     respond_to do |format|
       if @game.save
+
+        Notifications.new_game.deliver
+
         format.html { redirect_to @game, notice: 'Game was successfully created.' }
         format.json { render json: @game, status: :created, location: @game }
       else
