@@ -55,3 +55,7 @@ end
 
 # To use debugger
 # gem 'debugger'
+#
+group :development do
+  gem "capistrano"
+end
