@@ -7,7 +7,7 @@ describe 'Adding a player' do
     sign_in
   end
 
-  it 'requires a last name' do
+  it 'requires a last name', js: true do
     visit players_path
     click_link "New Player"
     fill_in "First name", with: "Mat"

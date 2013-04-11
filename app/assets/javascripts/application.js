@@ -13,3 +13,38 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree .
+
+function postHandler (res) {
+    var $res = $(res);
+    var $err = $res.
+        find('#error_explanation');
+
+    if ($err.length) {
+        $('#error_explanation').remove();
+        $err.insertBefore("#new_player");
+    } else {
+        $res.appendTo("table.players");
+        $("#new-player-link").
+            next('.well').
+            remove();
+        $("#new-player-link").show();
+    }
+}
+
+$(function () {
+    $("#new-player-link").click(function (e) {
+        e.preventDefault();
+        $well = $("<div class='well'>").
+            load(this.href).
+            insertAfter(this);
+        $(this).hide();
+        $well.on('submit', '#new_player',
+            function (e) {
+                e.preventDefault();
+
+                var body = $(this).serialize();
+                $.post(this.action, body, postHandler);
+            }
+        );
+    });
+});

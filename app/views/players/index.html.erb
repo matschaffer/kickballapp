@@ -1,6 +1,6 @@
 <h1>Listing players</h1>
 
-<table>
+<table class="players">
   <tr>
     <th>First name</th>
     <th>Last name</th>
@@ -11,19 +11,10 @@
     <th></th>
   </tr>
 
-<% @players.each do |player| %>
-  <tr>
-    <td><%= player.first_name %></td>
-    <td><%= player.last_name %></td>
-    <td><%= player.number %></td>
-    <td><%= player.team_name %></td>
-    <td><%= link_to 'Show', player %></td>
-    <td><%= link_to 'Edit', edit_player_path(player) %></td>
-    <td><%= link_to 'Destroy', player, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-  </tr>
-<% end %>
+<%= render @players %>
+
 </table>
 
 <br />
 
-<%= link_to 'New Player', new_player_path %>
+<%= link_to 'New Player', new_player_path, id: 'new-player-link' %>

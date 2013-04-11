@@ -1,4 +1,10 @@
 class PlayersController < ApplicationController
+
+  layout :none_for_xhr
+  def none_for_xhr
+    'application' unless request.xhr?
+  end
+
   # GET /players
   # GET /players.json
   def index
@@ -10,9 +16,8 @@ class PlayersController < ApplicationController
   def show
     @player = Player.find(params[:id])
 
-    respond_to do |format|
-      format.html # show.html.erb
-      format.json { render json: @player }
+    if request.xhr?
+      render @player
     end
   end
 
