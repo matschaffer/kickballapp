@@ -75,4 +75,7 @@ Kickballapp::Application.configure do
   }
 
   config.action_mailer.default_url_options = { :host => 'mat-kickballapp.herokuapp.com' }
+
+  config.stripe_private = "k5nqEdVkbf8ZFv64tbc80AHezT6ifLSF"
+  config.stripe_public = "pk_k9Z9KurLX98Rt0mV9hObleFCs2V60"
 end
