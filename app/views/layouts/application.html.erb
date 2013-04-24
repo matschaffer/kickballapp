@@ -29,10 +29,8 @@
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="active"><a href="/">Home</a></li>
-              <li><%= link_to "Teams", teams_path %></li>
-              <li><%= link_to "Players", players_path %></li>
-              <li><%= link_to "Venues", venues_path %></li>
               <li><%= link_to "Games", games_path %></li>
+              <li><%= link_to "Teams", teams_path %></li>
               <% if user_signed_in? %>
                   <li><%= link_to 'Logout',
                                   destroy_user_session_path,

@@ -4,6 +4,8 @@ class Game < ActiveRecord::Base
   belongs_to :venue
   attr_accessible :starts_at, :home_score, :away_score, :home_team_id, :home_team, :away_team_id, :away_team, :venue_id, :venue
 
+  validates :home_team, :away_team, presence: true
+
   def home_team_name
     home_team && home_team.name
   end
