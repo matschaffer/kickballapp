@@ -28,8 +28,7 @@
           <a class="brand" href="/">Kickballer</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li class="active"><a href="/">Home</a></li>
-              <li><%= link_to "Games", games_path %></li>
+              <li class="active"><a href="/">Games</a></li>
               <li><%= link_to "Teams", teams_path %></li>
               <% if user_signed_in? %>
                   <li><%= link_to 'Logout',
