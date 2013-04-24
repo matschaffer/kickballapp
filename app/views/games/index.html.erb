@@ -18,6 +18,7 @@
     <td><%= link_to game.venue_name, game.venue %></td>
     <td><%= game.starts_at.to_s(:long) %></td>
     <td><%= link_to 'Show', game %></td>
+    <td><%= link_to 'Buy a ticket', new_game_ticket_path(game) %></td>
   </tr>
 <% end %>
 </table>

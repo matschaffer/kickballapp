@@ -5,7 +5,11 @@ Kickballapp::Application.routes.draw do
 
   devise_for :users
 
-  resources :games, :venues, :players, :teams, only: %w[index show]
+  resources :venues, :players, :teams, only: %w[index show]
+
+  resources :games, only: %w[index show] do
+    resources :tickets, only: %w[new create]
+  end
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
