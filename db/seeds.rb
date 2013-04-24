@@ -7,14 +7,21 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 
-team = Team.create(name: 'Ballshevicks')
+ballsheviks = Team.create(name: 'Ballsheviks')
 
-team.players.create first_name: "Mat", last_name: "Schaffer", number: 42
-team.players.create first_name: "Jearvon", last_name: "Dharrie", number: 49
-team.players.create first_name: "Justin", last_name: "Campbell", number: 10
+ballsheviks.players.create first_name: "Mat", last_name: "Schaffer", number: 42
+ballsheviks.players.create first_name: "Jearvon", last_name: "Dharrie", number: 49
+ballsheviks.players.create first_name: "Trotter", last_name: "Cashion", number: 10
+
+balladelphia = Team.create(name: 'Balladelphia United')
+balladelphia.players.create first_name: 'Justin', last_name: 'Campbell', number: 15
+balladelphia.players.create first_name: 'Aaron', last_name: 'Feng', number: 3
+
+palladium = Venue.create(name: 'The Palladium')
+
+Game.create home_team: balladelphia, away_team: ballsheviks, venue: palladium, starts_at: 3.days.from_now
 
 mat = User.create(email: 'mat@schaffer.me', password: 'test1234', password_confirmation: 'test1234')
 mat.admin = true
 mat.save
 
-Venue.create(name: 'The Palladium')

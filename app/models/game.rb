@@ -2,7 +2,7 @@ class Game < ActiveRecord::Base
   belongs_to :home_team, class_name: 'Team'
   belongs_to :away_team, class_name: 'Team'
   belongs_to :venue
-  attr_accessible :starts_at, :home_score, :away_score, :home_team_id, :away_team_id, :venue_id
+  attr_accessible :starts_at, :home_score, :away_score, :home_team_id, :home_team, :away_team_id, :away_team, :venue_id, :venue
 
   def home_team_name
     home_team && home_team.name

@@ -16,7 +16,7 @@
     <td><%= game.home_team_name %></td>
     <td><%= game.away_team_name %></td>
     <td><%= game.venue_name %></td>
-    <td><%= game.starts_at %></td>
+    <td><%= game.starts_at.to_s(:long) %></td>
     <td><%= link_to 'Show', game %></td>
   </tr>
 <% end %>
