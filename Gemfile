@@ -59,3 +59,6 @@ end
 group :development do
   gem "capistrano"
 end
+
+source 'https://code.stripe.com'
+gem 'stripe'
