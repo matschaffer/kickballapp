@@ -12,5 +12,6 @@ describe 'Purchasing a ticket' do
   it 'should accept a credit card', js: true do
     visit games_path
     click_on 'Buy a ticket'
+    fail 'See if we can actually automate the stripe purchase'
   end
 end
