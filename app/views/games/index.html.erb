@@ -13,17 +13,11 @@
 
 <% @games.each do |game| %>
   <tr>
-    <td><%= game.home_team %></td>
-    <td><%= game.away_team %></td>
-    <td><%= game.venue %></td>
+    <td><%= game.home_team_name %></td>
+    <td><%= game.away_team_name %></td>
+    <td><%= game.venue_name %></td>
     <td><%= game.starts_at %></td>
     <td><%= link_to 'Show', game %></td>
-    <td><%= link_to 'Edit', edit_game_path(game) %></td>
-    <td><%= link_to 'Destroy', game, method: :delete, data: { confirm: 'Are you sure?' } %></td>
   </tr>
 <% end %>
 </table>
-
-<br />
-
-<%= link_to 'New Game', new_game_path %>

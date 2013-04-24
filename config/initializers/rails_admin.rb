@@ -6,6 +6,10 @@ RailsAdmin.config do |config|
 
   ################  Global configuration  ################
 
+  config.authorize_with do |controller|
+    redirect_to main_app.root_path, alert: "Sorry, that area of the site is admin-only." unless admin_signed_in?
+  end
+
   # Set the admin name here (optional second array element will appear in red). For example:
   config.main_app_name = ['Kickballapp', 'Admin']
   # or for a more dynamic name:

@@ -5,22 +5,7 @@ Kickballapp::Application.routes.draw do
 
   devise_for :users
 
-  resources :games
-
-
-  resources :venues
-
-
-  resources :players
-
-
-  resources :teams
-
-
-  resources :players
-  resources :teams do
-    resources :players, controller: :team_players
-  end
+  resources :games, :venues, :players, :teams, only: %w[index show]
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
@@ -71,7 +56,7 @@ Kickballapp::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
-  root :to => 'teams#index'
+  root :to => 'games#index'
 
   # See how all your routes lay out with "rake routes"
 

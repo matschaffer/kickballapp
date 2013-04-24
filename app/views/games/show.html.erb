@@ -2,12 +2,12 @@
 
 <p>
   <b>Home team:</b>
-  <%= @game.home_team %>
+  <%= @game.home_team_name %>
 </p>
 
 <p>
   <b>Away team:</b>
-  <%= @game.away_team %>
+  <%= @game.away_team_name %>
 </p>
 
 <p>
@@ -18,7 +18,7 @@
 
 <p>
   <b>Venue:</b>
-  <%= @game.venue %>
+  <%= @game.venue_name %>
 </p>
 
 <p>
@@ -27,5 +27,4 @@
 </p>
 
 
-<%= link_to 'Edit', edit_game_path(@game) %> |
 <%= link_to 'Back', games_path %>

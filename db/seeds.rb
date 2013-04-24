@@ -13,6 +13,8 @@ team.players.create first_name: "Mat", last_name: "Schaffer", number: 42
 team.players.create first_name: "Jearvon", last_name: "Dharrie", number: 49
 team.players.create first_name: "Justin", last_name: "Campbell", number: 10
 
-User.create(email: 'mat@schaffer.me', password: 'test1234', password_confirmation: 'test1234')
+mat = User.create(email: 'mat@schaffer.me', password: 'test1234', password_confirmation: 'test1234')
+mat.admin = true
+mat.save
 
 Venue.create(name: 'The Palladium')
